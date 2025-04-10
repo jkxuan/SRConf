@@ -2,8 +2,8 @@
 
 DOMAIN-SUFFIX,applovin.com
 DOMAIN-SUFFIX,applvn.com
-DOMAIN-SUFFIX,app-measurement.com,REJECT
-DOMAIN-SUFFIX,rayjump.com,REJECT
-DOMAIN-SUFFIX,ads.mopub.com,REJECT
-DOMAIN-SUFFIX,gaspra.iad-03.braze.com,REJECT
-DOMAIN-SUFFIX,inner-active.mobi,REJECT
+DOMAIN-SUFFIX,app-measurement.com
+DOMAIN-SUFFIX,rayjump.com
+DOMAIN-SUFFIX,ads.mopub.com
+DOMAIN-SUFFIX,gaspra.iad-03.braze.com
+DOMAIN-SUFFIX,inner-active.mobi

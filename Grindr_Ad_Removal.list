@@ -1,0 +1,10 @@
+# Grindr Ad Removal
+
+DOMAIN-SUFFIX,applovin.com
+DOMAIN-SUFFIX,applvn.com
+DOMAIN-SUFFIX,app-measurement.com,REJECT
+DOMAIN-SUFFIX,rayjump.com,REJECT
+DOMAIN-SUFFIX,ads.mopub.com,REJECT
+DOMAIN-SUFFIX,gaspra.iad-03.braze.com,REJECT
+DOMAIN-SUFFIX,inner-active.mobi,REJECT
+DOMAIN-KEYWORD,grindr,PROXY
